@@ -5,9 +5,10 @@ This project is a design of a sample hospital emergency room dashboard that woul
 The data used in this project isn't of any real hospital because of confidentiality concerns but an RWFD (Real World Fake Data) from https://data.world a great source for data.
 
 # The Main Dashboard view
+### A video recording of the dashboard
 
 https://github.com/user-attachments/assets/ef56de0e-a85a-40ac-a212-69a9d7bf2c11
-Video recording of the dashboard.
+
 
 # Discussion on the various sections of the dashboard
 
