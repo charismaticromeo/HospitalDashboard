@@ -6,6 +6,9 @@ The data used in this project isn't of any real hospital because of confidential
 
 # The Main Dashboard view
 
+https://github.com/user-attachments/assets/ef56de0e-a85a-40ac-a212-69a9d7bf2c11
+Video recording of the dashboard.
+
 # Discussion on the various sections of the dashboard
 
 ## Section 1: Overall Hospital Insights
